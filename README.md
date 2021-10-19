@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seungwon Bang.</h1>
-<h3 align="center">A Student studies React, Python and Java in Korea.</h3>
+<h3 align="center">다방면에서 공부를 하고 있는 학생입니다 !</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
