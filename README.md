@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seungwon Bang</h1>
+<h1 align="center">Hi 👋, I'm Seungwon Bang.</h1>
 <h3 align="center">A Student studies React, Python and Java in Korea.</h3>
 
 
