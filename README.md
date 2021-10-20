@@ -12,5 +12,5 @@
 - 2020 SW 아이디어 콘테스트 은상<br>
 - 2021 오픈소스 SW 글로벌 아이디어 공모전 금상
 
-###### <STRIKE>- 2020 문예창작공모전 우수상</STRIKE><br><STRIKE>- 2020 우수서평공모전 우수상</STRIKE><br><STRIKE>- 2020 기업분석경진대회 입상</STRIKE>
+###### <STRIKE>- 2020 문예창작공모전 우수상</STRIKE><br><STRIKE>- 2020 우수서평공모전 우수상</STRIKE><br><STRIKE>- 2020 기업분석경진대회 입상</STRIKE><br><STRIKE>- 2020 좋은수업추천하기 우수상</STRIKE><br><STRIKE>- 2020 SW 프로그램 추천 에세이 장려상</STRIKE><br><STRIKE>- 2020 창업동아리경진대회 대상</STRIKE>
 
