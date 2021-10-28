@@ -15,7 +15,6 @@
 - 2021 오픈소스 SW 글로벌 아이디어 공모전 금상
 
 ###### <STRIKE>- 2020 문예창작공모전 우수상</STRIKE><br><STRIKE>- 2020 우수서평공모전 우수상</STRIKE><br><STRIKE>- 2020 기업분석경진대회 입상</STRIKE><br><STRIKE>- 2020 좋은수업추천하기 우수상</STRIKE><br><STRIKE>- 2020 SW프로그램추천에세이 장려상</STRIKE><br><STRIKE>- 2020 창업동아리경진대회 대상</STRIKE>
-
 <br>
 📖 <b>주요 수강과목</b><br>
 - 2021-2 클라우드 컴퓨팅<br>
