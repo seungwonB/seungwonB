@@ -24,3 +24,5 @@
 ✔️ 2021-1 운영체제<br>
 ✔️ 2020-2 알고리즘<br>
 ✔️ 2020-2 데이터베이스<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddnjs513)](https://github.com/anuraghazra/github-readme-stats)
