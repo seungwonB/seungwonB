@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <hr>
-<h1>Hallym Universitry, Software 3rd grade</h1>
+<h1 align="center">Hallym Universitry, Software 3rd grade</h1>
 :office: <b>교외 공모전</b><br>
 - 2021.03 ~ 스마트 해상물류 공모전 1차 합격 후 2차 진행 중 (자율운항기반 무인 청항선)
 <br><br>
@@ -25,7 +25,9 @@
 ✔️ 2020-2 알고리즘<br>
 ✔️ 2020-2 데이터베이스<br>
 <hr>
-- 취미생활 : 악기연주하기(:trumpet:, 🎹)
+<h1 align="center">About me.:smiley:</h1>
+- 한계를 정해놓지 않고 다양한 경험을 추구<br>
+- 취미생활은 악기연주하기(:trumpet:, 🎹)!<br>
 <br><hr>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddnjs513)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddnjs513&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
