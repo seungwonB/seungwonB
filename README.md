@@ -8,7 +8,7 @@
 <hr>
 <h1 align="center">Hallym Universitry, Software 3rd grade</h1>
 :office: <b>교외 공모전</b><br>
-- 2021.03 ~ 스마트 해상물류 공모전 1차 합격 (자율운항기반 무인 청항선)
+- 2021.03 ~ 2021.11 스마트 해상물류 공모전 1차 합격 (자율운항기반 무인 청항선)
 <br><br>
 :school: <b>교내 공모전</b><br>
 - 2020 SW 아이디어 콘테스트 은상<br>
