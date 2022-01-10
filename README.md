@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seungwon Bang.</h1>
-<div>✔️ 여러 언어들을 접하는 중인 대학생 입니다 !</div>
-<div>✔️ 현재는 리액트, 스프링, 클라우드를 공부하고 있습니다. </div>
-<div>✔️ 1일 1커밋 도전 중! </div>
+<div>✔️ 인턴 2022.01.03~ing</div>
 <div>✔️ Contact : tmddnjs513@gmail.com </div>
 <div>✔️ velog : https://velog.io/@swbang </div>
 <h3 align="left">Languages and Tools:</h3>
