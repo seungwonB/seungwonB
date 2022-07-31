@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seungwon Bang.</h1>
-<div>✔️ 인턴 2022.01.03~ing</div>
 <div>✔️ Contact : tmddnjs513@gmail.com </div>
 <div>✔️ velog : https://velog.io/@swbang </div>
 <h3 align="left">Languages and Tools:</h3>
